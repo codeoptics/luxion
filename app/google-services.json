@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "671726321382",
+    "firebase_url": "https://loxion-1b0a1.firebaseio.com",
+    "project_id": "loxion-1b0a1",
+    "storage_bucket": "loxion-1b0a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671726321382:android:1f0a965a529f7451900527",
+        "android_client_info": {
+          "package_name": "com.my.loxion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671726321382-clrabg9msls3rsq0cmulg1qb9uqe3iop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my.loxion",
+            "certificate_hash": "575e0cfe5710436220c2d33428bdef8479c8e727"
+          }
+        },
+        {
+          "client_id": "671726321382-ut7jd3ug0f3d2roqojmt98g8sedvlhnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2KC7OHVLQg7RZRKO0rOXivqRQEZOXP3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671726321382-ut7jd3ug0f3d2roqojmt98g8sedvlhnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
